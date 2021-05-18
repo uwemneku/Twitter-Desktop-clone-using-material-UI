@@ -1,7 +1,7 @@
 import { Avatar, Grid, Hidden, makeStyles, Typography } from '@material-ui/core'
 import { MoreHoriz } from '@material-ui/icons'
 import React from 'react'
-import 'fontsource-roboto'
+import '@fontsource/roboto'
 import { blue } from '@material-ui/core/colors'
 
 

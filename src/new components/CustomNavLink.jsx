@@ -3,7 +3,7 @@ import { blue } from '@material-ui/core/colors'
 import { Twitter } from '@material-ui/icons'
 import React from 'react'
 import {IconsRename} from '../Data/IconsRename'
-import 'fontsource-roboto'
+import '@fontsource/roboto'
 
 const useStyle = makeStyles((theme) => ({
     root:{

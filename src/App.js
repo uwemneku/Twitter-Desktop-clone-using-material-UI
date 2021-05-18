@@ -1,7 +1,7 @@
 import { createMuiTheme,  ThemeProvider } from '@material-ui/core'
 import { blue } from '@material-ui/core/colors'
 import React from 'react'
-// import 'fontsouzrce-roboto'
+import '@fontsource/roboto'
 import Layout from './components/Layout'
 
 const theme = createMuiTheme({
