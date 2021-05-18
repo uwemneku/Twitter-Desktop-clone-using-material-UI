@@ -1,0 +1,12 @@
+.parent{
+    :hover{
+        background-color: rgb(236, 34, 34);
+        .child{
+            display: none;
+            background-color: rgb(226, 238, 245);
+            width: fit-content;
+            box-sizing: content-box;
+            height: fit-content;
+        }
+    }
+}
