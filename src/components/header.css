@@ -1,0 +1,17 @@
+.parent :hover {
+  background-color: #ec2222;
+}
+
+.parent :hover .child {
+  display: none;
+  background-color: #e2eef5;
+  width: -webkit-fit-content;
+  width: -moz-fit-content;
+  width: fit-content;
+  -webkit-box-sizing: content-box;
+          box-sizing: content-box;
+  height: -webkit-fit-content;
+  height: -moz-fit-content;
+  height: fit-content;
+}
+/*# sourceMappingURL=header.css.map */
